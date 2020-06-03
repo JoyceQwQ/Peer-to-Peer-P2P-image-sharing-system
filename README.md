@@ -8,6 +8,9 @@ First, you need to choose an image file in the JFileChooser.
 Second, you can load a new image by pressing the button "Load another image".
 Then run the ImagePeer.java. Enter the server’s IP address, the username and password in User.txt. 
 The passwords will be hashed and sent to the server with the IP address and the username.
+//Username: mqpeng  Password: Comp2396B//
+//Username: cjli    Password: 2396BComp//
+//Username: cbchan  Password: HelloWorld0//
 You can have as many peers as you like. 
 They will load the image by getting the separated image blocks from the previous users.
 When you load a new image in the server GUI, all peers will also have the new image shown.
